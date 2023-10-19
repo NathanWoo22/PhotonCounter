@@ -1,0 +1,317 @@
+------------------------------------------------------------
+TimeQuest Timing Analyzer Summary
+------------------------------------------------------------
+
+Type  : Slow 1200mV 85C Model Setup '7474:OneShot1|10'
+Slack : -1.393
+TNS   : -9.041
+
+Type  : Slow 1200mV 85C Model Setup 'IntegrationTime'
+Slack : -1.190
+TNS   : -1.190
+
+Type  : Slow 1200mV 85C Model Setup 'Clock'
+Slack : -0.975
+TNS   : -2.074
+
+Type  : Slow 1200mV 85C Model Setup '7490:Counter1|7'
+Slack : -0.655
+TNS   : -0.775
+
+Type  : Slow 1200mV 85C Model Setup '7490:Counter1|19'
+Slack : -0.163
+TNS   : -0.163
+
+Type  : Slow 1200mV 85C Model Setup '7490:Counter2|7'
+Slack : -0.015
+TNS   : -0.015
+
+Type  : Slow 1200mV 85C Model Hold '7490:Counter1|7'
+Slack : 0.184
+TNS   : 0.000
+
+Type  : Slow 1200mV 85C Model Hold '7490:Counter1|19'
+Slack : 0.293
+TNS   : 0.000
+
+Type  : Slow 1200mV 85C Model Hold '7490:Counter2|7'
+Slack : 0.357
+TNS   : 0.000
+
+Type  : Slow 1200mV 85C Model Hold '7474:OneShot1|10'
+Slack : 0.407
+TNS   : 0.000
+
+Type  : Slow 1200mV 85C Model Hold 'Clock'
+Slack : 0.671
+TNS   : 0.000
+
+Type  : Slow 1200mV 85C Model Hold 'IntegrationTime'
+Slack : 1.137
+TNS   : 0.000
+
+Type  : Slow 1200mV 85C Model Recovery '7490:Counter1|19'
+Slack : -1.884
+TNS   : -1.884
+
+Type  : Slow 1200mV 85C Model Recovery '7490:Counter1|7'
+Slack : -1.800
+TNS   : -4.092
+
+Type  : Slow 1200mV 85C Model Recovery 'IntegrationTime'
+Slack : -1.056
+TNS   : -1.056
+
+Type  : Slow 1200mV 85C Model Recovery '7490:Counter2|7'
+Slack : -0.895
+TNS   : -2.685
+
+Type  : Slow 1200mV 85C Model Removal '7490:Counter1|7'
+Slack : 1.164
+TNS   : 0.000
+
+Type  : Slow 1200mV 85C Model Removal '7490:Counter2|7'
+Slack : 1.310
+TNS   : 0.000
+
+Type  : Slow 1200mV 85C Model Removal 'IntegrationTime'
+Slack : 1.498
+TNS   : 0.000
+
+Type  : Slow 1200mV 85C Model Removal '7490:Counter1|19'
+Slack : 2.352
+TNS   : 0.000
+
+Type  : Slow 1200mV 85C Model Minimum Pulse Width 'Clock'
+Slack : -3.000
+TNS   : -7.000
+
+Type  : Slow 1200mV 85C Model Minimum Pulse Width 'IntegrationTime'
+Slack : -3.000
+TNS   : -4.000
+
+Type  : Slow 1200mV 85C Model Minimum Pulse Width '7490:Counter1|7'
+Slack : -1.000
+TNS   : -4.000
+
+Type  : Slow 1200mV 85C Model Minimum Pulse Width '7490:Counter2|7'
+Slack : -1.000
+TNS   : -3.000
+
+Type  : Slow 1200mV 85C Model Minimum Pulse Width '7490:Counter1|19'
+Slack : -1.000
+TNS   : -1.000
+
+Type  : Slow 1200mV 85C Model Minimum Pulse Width '7474:OneShot1|10'
+Slack : 0.413
+TNS   : 0.000
+
+Type  : Slow 1200mV 0C Model Setup '7474:OneShot1|10'
+Slack : -1.167
+TNS   : -7.680
+
+Type  : Slow 1200mV 0C Model Setup 'IntegrationTime'
+Slack : -1.002
+TNS   : -1.002
+
+Type  : Slow 1200mV 0C Model Setup 'Clock'
+Slack : -0.763
+TNS   : -1.640
+
+Type  : Slow 1200mV 0C Model Setup '7490:Counter1|7'
+Slack : -0.517
+TNS   : -0.518
+
+Type  : Slow 1200mV 0C Model Setup '7490:Counter1|19'
+Slack : -0.080
+TNS   : -0.080
+
+Type  : Slow 1200mV 0C Model Setup '7490:Counter2|7'
+Slack : 0.103
+TNS   : 0.000
+
+Type  : Slow 1200mV 0C Model Hold '7490:Counter1|7'
+Slack : 0.150
+TNS   : 0.000
+
+Type  : Slow 1200mV 0C Model Hold '7490:Counter1|19'
+Slack : 0.251
+TNS   : 0.000
+
+Type  : Slow 1200mV 0C Model Hold '7490:Counter2|7'
+Slack : 0.312
+TNS   : 0.000
+
+Type  : Slow 1200mV 0C Model Hold '7474:OneShot1|10'
+Slack : 0.479
+TNS   : 0.000
+
+Type  : Slow 1200mV 0C Model Hold 'Clock'
+Slack : 0.600
+TNS   : 0.000
+
+Type  : Slow 1200mV 0C Model Hold 'IntegrationTime'
+Slack : 0.982
+TNS   : 0.000
+
+Type  : Slow 1200mV 0C Model Recovery '7490:Counter1|19'
+Slack : -1.632
+TNS   : -1.632
+
+Type  : Slow 1200mV 0C Model Recovery '7490:Counter1|7'
+Slack : -1.553
+TNS   : -3.551
+
+Type  : Slow 1200mV 0C Model Recovery 'IntegrationTime'
+Slack : -0.833
+TNS   : -0.833
+
+Type  : Slow 1200mV 0C Model Recovery '7490:Counter2|7'
+Slack : -0.784
+TNS   : -2.352
+
+Type  : Slow 1200mV 0C Model Removal '7490:Counter1|7'
+Slack : 1.140
+TNS   : 0.000
+
+Type  : Slow 1200mV 0C Model Removal '7490:Counter2|7'
+Slack : 1.258
+TNS   : 0.000
+
+Type  : Slow 1200mV 0C Model Removal 'IntegrationTime'
+Slack : 1.341
+TNS   : 0.000
+
+Type  : Slow 1200mV 0C Model Removal '7490:Counter1|19'
+Slack : 2.148
+TNS   : 0.000
+
+Type  : Slow 1200mV 0C Model Minimum Pulse Width 'Clock'
+Slack : -3.000
+TNS   : -7.000
+
+Type  : Slow 1200mV 0C Model Minimum Pulse Width 'IntegrationTime'
+Slack : -3.000
+TNS   : -4.000
+
+Type  : Slow 1200mV 0C Model Minimum Pulse Width '7490:Counter1|7'
+Slack : -1.000
+TNS   : -4.000
+
+Type  : Slow 1200mV 0C Model Minimum Pulse Width '7490:Counter2|7'
+Slack : -1.000
+TNS   : -3.000
+
+Type  : Slow 1200mV 0C Model Minimum Pulse Width '7490:Counter1|19'
+Slack : -1.000
+TNS   : -1.000
+
+Type  : Slow 1200mV 0C Model Minimum Pulse Width '7474:OneShot1|10'
+Slack : 0.412
+TNS   : 0.000
+
+Type  : Fast 1200mV 0C Model Setup '7474:OneShot1|10'
+Slack : -0.711
+TNS   : -3.987
+
+Type  : Fast 1200mV 0C Model Setup 'Clock'
+Slack : -0.499
+TNS   : -0.929
+
+Type  : Fast 1200mV 0C Model Setup 'IntegrationTime'
+Slack : -0.341
+TNS   : -0.341
+
+Type  : Fast 1200mV 0C Model Setup '7490:Counter1|7'
+Slack : 0.008
+TNS   : 0.000
+
+Type  : Fast 1200mV 0C Model Setup '7490:Counter1|19'
+Slack : 0.118
+TNS   : 0.000
+
+Type  : Fast 1200mV 0C Model Setup '7490:Counter2|7'
+Slack : 0.428
+TNS   : 0.000
+
+Type  : Fast 1200mV 0C Model Hold '7490:Counter1|7'
+Slack : 0.094
+TNS   : 0.000
+
+Type  : Fast 1200mV 0C Model Hold '7474:OneShot1|10'
+Slack : 0.148
+TNS   : 0.000
+
+Type  : Fast 1200mV 0C Model Hold '7490:Counter1|19'
+Slack : 0.155
+TNS   : 0.000
+
+Type  : Fast 1200mV 0C Model Hold '7490:Counter2|7'
+Slack : 0.185
+TNS   : 0.000
+
+Type  : Fast 1200mV 0C Model Hold 'Clock'
+Slack : 0.346
+TNS   : 0.000
+
+Type  : Fast 1200mV 0C Model Hold 'IntegrationTime'
+Slack : 0.506
+TNS   : 0.000
+
+Type  : Fast 1200mV 0C Model Recovery '7490:Counter1|19'
+Slack : -0.881
+TNS   : -0.881
+
+Type  : Fast 1200mV 0C Model Recovery '7490:Counter1|7'
+Slack : -0.842
+TNS   : -1.217
+
+Type  : Fast 1200mV 0C Model Recovery '7490:Counter2|7'
+Slack : -0.201
+TNS   : -0.603
+
+Type  : Fast 1200mV 0C Model Recovery 'IntegrationTime'
+Slack : -0.187
+TNS   : -0.187
+
+Type  : Fast 1200mV 0C Model Removal '7490:Counter1|7'
+Slack : 0.737
+TNS   : 0.000
+
+Type  : Fast 1200mV 0C Model Removal '7490:Counter2|7'
+Slack : 0.824
+TNS   : 0.000
+
+Type  : Fast 1200mV 0C Model Removal 'IntegrationTime'
+Slack : 0.830
+TNS   : 0.000
+
+Type  : Fast 1200mV 0C Model Removal '7490:Counter1|19'
+Slack : 1.563
+TNS   : 0.000
+
+Type  : Fast 1200mV 0C Model Minimum Pulse Width 'Clock'
+Slack : -3.000
+TNS   : -7.168
+
+Type  : Fast 1200mV 0C Model Minimum Pulse Width 'IntegrationTime'
+Slack : -3.000
+TNS   : -4.027
+
+Type  : Fast 1200mV 0C Model Minimum Pulse Width '7490:Counter1|7'
+Slack : -1.000
+TNS   : -4.000
+
+Type  : Fast 1200mV 0C Model Minimum Pulse Width '7490:Counter2|7'
+Slack : -1.000
+TNS   : -3.000
+
+Type  : Fast 1200mV 0C Model Minimum Pulse Width '7490:Counter1|19'
+Slack : -1.000
+TNS   : -1.000
+
+Type  : Fast 1200mV 0C Model Minimum Pulse Width '7474:OneShot1|10'
+Slack : 0.441
+TNS   : 0.000
+
+------------------------------------------------------------
